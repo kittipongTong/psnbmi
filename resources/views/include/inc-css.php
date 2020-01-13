@@ -1,0 +1,14 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="feliciano/css/open-iconic-bootstrap.min.css">
+<link rel="stylesheet" href="feliciano/css/animate.css">
+<link rel="stylesheet" href="feliciano/css/owl.carousel.min.css">
+<link rel="stylesheet" href="feliciano/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="feliciano/css/magnific-popup.css">
+<link rel="stylesheet" href="feliciano/css/aos.css">
+<link rel="stylesheet" href="feliciano/css/ionicons.min.css">
+<link rel="stylesheet" href="feliciano/css/bootstrap-datepicker.css">
+<link rel="stylesheet" href="feliciano/css/jquery.timepicker.css">
+<link rel="stylesheet" href="feliciano/css/flaticon.css">
+<link rel="stylesheet" href="feliciano/css/icomoon.css">
+<link rel="stylesheet" href="feliciano/css/style.css">

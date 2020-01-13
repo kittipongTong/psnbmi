@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>จังหวัด</title>
+  </head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <style media="screen">
+    .box{
+      width:600px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+    }
+  </style>
+  <body>
+    <br>
+      <div class="container box">
+        <h3>จังหวัด</h3>
+        <div class="form-group">
+          <select  name="amphure" id="amphure" class="form-control amphure">
+            <option value="">เลือกอำเภอ</option>
+            @foreach($list as $row)
+            <option value="">{{$row->name_th}}</option>
+            @endforeach
+          </select>
+        </div>
+      </div>
+
+
+
+  </body>
+
+
+</html>
